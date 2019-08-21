@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticaCalificada1</string>
+    <string name="txtpalabra">escriba palabra</string>
+    <string name="boton">agregar</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="paa">vogais fechadas 1ª palavra </string>
+
+
+</resources>

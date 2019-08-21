@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticaCalificada1</string>
+    <string name="mostrar">mostre</string>
+    <string name="boton">" adicionar"</string>
+    <string name="txtpalabra">escrever palavra</string>
+    <string name="paa">vocales de cerradas 1ra palabra</string>
+
+</resources>
